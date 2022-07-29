@@ -1,1 +1,1 @@
-"# elephantsealfitness" 
+Data and Code from Beltran and Hernandez et al. "Physiological tipping points: foraging strategies influence lifetime fitness in a long-lived mammal". Please contact Dan Costa (costa@ucsc.edu) and Roxanne Beltran (roxanne@ucsc.edu) if you would like to use these data for publication.
